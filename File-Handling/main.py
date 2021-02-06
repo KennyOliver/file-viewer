@@ -1,4 +1,5 @@
-import os, fnmatch 
+import os
+import fnmatch 
 from colorama import Fore, Back
 
 '''def read_file():
