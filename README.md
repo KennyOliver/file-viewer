@@ -1,6 +1,6 @@
-# File Viewer :floppy_disk:
+# file-viewer :floppy_disk:
 
-![image](https://www.codefactor.io/repository/github/KennyOliver/file-viewer/badge)
+![image](https://www.codefactor.io/repository/github/KennyOliver/file-viewer/badge?style=for-the-badge)
 
 A simple utility to view folders and files in Python
 
