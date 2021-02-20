@@ -3,7 +3,7 @@ import fnmatch
 from colorama import Fore, Back
 
 '''def read_file():
-  myfile = open("Stuff/testfile.kenny", "r")
+  myfile = open("file_handling/stuff/testfile.kenny", "r")
   number = 0
   for record in myfile:
     print(number, "|\n", record, end = "")
@@ -14,7 +14,7 @@ read_file()'''
 print("\n")
 
 def write_to_file():
-  xfile = open("Stuff/cats/afile.kenny", "w")
+  xfile = open("file_handling/stuff/cats/afile.kenny", "w")
 
   for number in range(1, 6):
     record = "Henry is a bad cat\n"
@@ -26,7 +26,7 @@ write_to_file()
 print("\n")
 
 def kenny_file():
-  kenny = open("Stuff/KENNY/kenny_was_here.kenny", "r")
+  kenny = open("file_handling/stuff/KENNY/kenny_was_here.kenny", "r")
   number = 0
   for record in kenny:
     print(number, "|\n", record, end = "")
