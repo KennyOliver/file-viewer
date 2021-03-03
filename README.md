@@ -1,6 +1,7 @@
 # file-viewer :floppy_disk:
 
 ![image](https://www.codefactor.io/repository/github/KennyOliver/file-viewer/badge?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/KennyOliver/file-viewer?style=for-the-badge)
 
 [![](https://repl.it/badge/github/KennyOliver/file-viewer)](https://repl.it/@KennyOliver/file-viewer)
 
